@@ -1,0 +1,5 @@
+# database.xlsx --> (ignora arquivo especifico)
+# *.xlsx --> (ignora extensão do arquivo)
+
+# arquivos/ -->(ignora todo a pasta)
+arquivos/
